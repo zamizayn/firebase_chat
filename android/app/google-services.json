@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631936371290",
+    "firebase_url": "https://lawapp-c073e-default-rtdb.firebaseio.com",
+    "project_id": "lawapp-c073e",
+    "storage_bucket": "lawapp-c073e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631936371290:android:e81c3f26246f0adf3e6663",
+        "android_client_info": {
+          "package_name": "com.example.law"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631936371290-nhe3oebd1336tpv2j87b3n80k69048aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChB40Ib-Sm32y9cgXX-2CL84PSRiCIIAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631936371290-nhe3oebd1336tpv2j87b3n80k69048aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
